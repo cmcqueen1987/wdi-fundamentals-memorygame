@@ -27,7 +27,7 @@ var checkForMatch = function(){
 
 	if (cardsInPlay.length === 2 && cardsInPlay[0] === cardsInPlay[1]) {
 
-		alert("You found a Match!");
+		alert("You found a Match");
 	} else {
 
 		alert("Sorry, try again.");
